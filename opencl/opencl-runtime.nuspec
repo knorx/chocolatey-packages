@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>testpackage</id>
+    <version>16.1.1</version>
+    <packageSourceUrl>https://github.com/knorx/chocolatey-packages/tree/master/opencl</packageSourceUrl>
+    <owners>knorx</owners>
+    <title>OpenCL™ Runtime for Intel® Core™ and Intel® Xeon® Processors</title>
+    <authors>Intel®</authors>
+    <projectUrl>https://software.intel.com/en-us/articles/opencl-drivers#latest_CPU_runtime</projectUrl>
+    <copyright>2017 Intel®</copyright> -->
+    <licenseUrl>https://software.intel.com/sites/default/files/managed/56/f8/INTEL%20SOFTWARE%20LICENSE%20AGREEMENT.pdf</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>-->
+    <tags>opencl intel runtime</tags>
+    <summary>This installs the runtime necessary to run OpenCL™ code on windows machines.</summary>
+    <description></description>
+    <dependencies>
+      <dependency id="chocolatey-uninstall.extension" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
