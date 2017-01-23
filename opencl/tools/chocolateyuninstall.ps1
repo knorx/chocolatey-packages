@@ -1,7 +1,7 @@
 ﻿$ErrorActionPreference = 'Stop';
 
 $packageName = 'opencl-runtime'
-$softwareName = 'OpenCL™ Runtime for Intel® Core™ and Intel® Xeon® Processors'
+$softwareName = 'OpenCL*Runtime*Intel*Processors'
 $installerType = 'MSI' 
 
 $silentArgs = '/qn /norestart'

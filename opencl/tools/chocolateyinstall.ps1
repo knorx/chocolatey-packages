@@ -13,7 +13,7 @@ $packageArgs = @{
   url           = $url
   url64bit      = $url64
 
-  softwareName  = 'OpenCL™ Runtime for Intel® Core™ and Intel® Xeon® Processors'
+  softwareName  = 'OpenCL*Runtime*Intel*Processors'
 
   checksum      = 'A1F556FC294154085929EF598F2022304D16CFD96C1B7FAD433A0A81E92D985B'
   checksumType  = 'sha256'
