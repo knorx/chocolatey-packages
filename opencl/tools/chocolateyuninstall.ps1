@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop';
 
-$packageName = 'opencl-runtime'
+$packageName = 'opencl-intel-cpu-runtime'
 $softwareName = 'OpenCL*Runtime*Intel*Processors'
 $installerType = 'MSI' 
 

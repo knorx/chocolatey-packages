@@ -1,7 +1,7 @@
 ﻿
 $ErrorActionPreference = 'Stop';
 
-$packageName= 'opencl-runtime'
+$packageName= 'opencl-intel-cpu-runtime'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $url        = 'http://registrationcenter-download.intel.com/akdlm/irc_nas/9022/opencl_runtime_16.1.1_x86_setup.msi'
 $url64      = 'http://registrationcenter-download.intel.com/akdlm/irc_nas/9022/opencl_runtime_16.1.1_x64_setup.msi'

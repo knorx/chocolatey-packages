@@ -2,7 +2,7 @@
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>opencl-runtime</id>
+    <id>opencl-intel-cpu-runtime</id>
     <version>16.1.1</version>
     <packageSourceUrl>https://github.com/knorx/chocolatey-packages/tree/master/opencl</packageSourceUrl>
     <owners>knorx</owners>
@@ -12,9 +12,9 @@
     <copyright>2017 Intel®</copyright>
     <licenseUrl>https://software.intel.com/sites/default/files/managed/56/f8/INTEL%20SOFTWARE%20LICENSE%20AGREEMENT.pdf</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <tags>opencl intel runtime</tags>
-    <summary>This software is necessary to let OpenCL™ programs use Intel® CPUs.</summary>
-    <description>Installs the runtime to let OpenCL™ programs use Intel® CPUs as processing cores.</description>
+    <tags>opencl intel cpu runtime</tags>
+    <summary></summary>
+    <description>Runtime necessary to let OpenCL™ programs use Intel® CPUs as processing cores.</description>
     <dependencies>
       <dependency id="chocolatey-uninstall.extension" />
     </dependencies>
