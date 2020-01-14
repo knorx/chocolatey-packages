@@ -3,14 +3,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>opencl-intel-cpu-runtime</id>
-    <version>16.1.1</version>
+    <version>18.1</version>
     <packageSourceUrl>https://github.com/knorx/chocolatey-packages/tree/master/opencl</packageSourceUrl>
     <owners>knorx</owners>
     <title>OpenCL™ Runtime for Intel® Core™ and Intel® Xeon® Processors</title>
     <authors>Intel®</authors>
-    <projectUrl>https://software.intel.com/en-us/articles/opencl-drivers#latest_CPU_runtime</projectUrl>
-    <copyright>2017 Intel®</copyright>
-    <licenseUrl>https://software.intel.com/sites/default/files/managed/56/f8/INTEL%20SOFTWARE%20LICENSE%20AGREEMENT.pdf</licenseUrl>
+    <projectUrl>https://software.intel.com/en-us/articles/opencl-drivers#cpu-section</projectUrl>
+    <copyright>2018 Intel®</copyright>
+    <licenseUrl>https://software.intel.com/sites/default/files/managed/df/d3/dpd-eula-for-intel-software-11-2-18-final.pdf</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <tags>opencl intel cpu runtime</tags>
     <summary></summary>
